@@ -1,0 +1,47 @@
+TP01 : Régression linéaire et logistique binaire
+=================================================
+
+Dans ce TP, nous allons traiter la régression linéaire et logistique binaire.
+Nous allons implémenter les algorithmes nécessaires (version simple).
+Ensuite, nous allons mener quelques tests afin de vérifier les concepts vu en cours.
+
+OUTILS :
+--------
+Python, Jupyter, pandas, scikit-learn, numpy, matplotlib
+
+DATASETS :
+----------
+prix des maisons (régression), notes des étudiants (classement)
+
+PLAN : 
+------
+I. Réalisation des algorithmes
+    I.1.  Régression linéaire
+    I.2.  Régression logistique
+    I.3.  Déscente du gradient
+    I.4.  Regrouper les fonctions
+II. Application et analyse
+    II.1. Régression linéaire
+    II.2. Régression logistique binaire
+
+QUOI FAIRE : 
+------------
+I. Réalisation des algorithmes
+    - Combinaison linéaire [4pts]
+    - Fonction du coût MSE [4pts]
+    - Gradients MSE [4pts]
+    - Fonction logistique [4pts]
+    - Prédiction (régression logistique) [4pts]
+    - Fonction du coût BCE [4pts]
+    - Fonction d'arret de la descente du gradient [4pts]
+    - Mise à jours des paramètres [4pts]
+    
+II. Application et analyse
+    - Régression linéaire : Qualité de prédiction [5pts]
+    - Régression linéaire : Biais [5pts]
+    - Régression logistique binaire : Normalisation et convergence [7pts]
+    - Régression logistique binaire : Taux d'apprentissage et convergence [8pts]
+    - Regression logistique binaire : Complexité du modèle et séparation [7pts]
+    
+Avancement dans la séance [8pts]
+Rendre le TP à temps [8pts]
